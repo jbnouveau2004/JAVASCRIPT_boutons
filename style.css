@@ -1,0 +1,14 @@
+#rectangle{
+    background-color: blue;
+    width: 100px;
+    height: 100px;
+}
+
+center{
+    width:100vw;
+    height:100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
